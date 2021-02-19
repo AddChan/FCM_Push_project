@@ -1,6 +1,6 @@
-# FCM Push Project
+# Firebase Cloud Messaging
 
-Firebase를 사용해 개발한 Push_Notification 입니다. <br/>
+Firebase를 사용해 개발한 Push Notification 입니다. <br/>
 자세한 설명은 https://csc0705.tistory.com/55 에있습니다. 
 
 ![4](https://user-images.githubusercontent.com/43715399/55664361-5015ea00-5867-11e9-9f52-deba19ec9475.gif)
